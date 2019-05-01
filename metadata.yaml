@@ -1,11 +1,16 @@
 _repo: Sermons-Of-The-Rev-Francis-A-Baker-With-A-Memoir-Of-His-Life_58812
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hewit, Rev. A. F.
     gutenberg_agent_id: '50166'
     url: http://www.gutenberg.org/2009/agents/50166
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58812#Sermons-Of-The-Rev-Francis-A-Baker-With-A-Memoir-Of-His-Life
 gutenberg_issued: '2019-02-03'
 gutenberg_type: Text
 identifiers:
